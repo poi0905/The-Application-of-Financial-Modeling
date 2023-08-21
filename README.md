@@ -1,2 +1,2 @@
 # The-Application-of-Financial-Modeling
-NTU 2021 Fall
+The assignment spanned topics including portfolio analysis, optimal capital structure, interest rate models, the Black-Scholes model, the binomial model, and option trading strategies.
